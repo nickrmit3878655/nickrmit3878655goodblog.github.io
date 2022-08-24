@@ -1,4 +1,4 @@
-# Biscuit theme for Jekyll
+# Wellcome to My blog
 
 [Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
 
